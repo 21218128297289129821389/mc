@@ -1,0 +1,1 @@
+[Sat Nov 28 2015 15:34:07 GMT+0200 (FLE Standard Time)] Layer "MC-BG.com & MC-BG Server - All Rights Reserved": Expected end of input but "&" found.
